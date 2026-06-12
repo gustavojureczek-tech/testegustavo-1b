@@ -5,7 +5,16 @@ header{
     background-color: orange;
     color: navy;
     text-align: center;
-    mx-width: 800px;
+    max-width: 800px;
     margin: 0 auto;
     padding: 20px;
+}
+main{
+display:flex;
+}
+article{
+background-color: black;
+color: darkmagenta;
+text-align: justify;
+
 }
