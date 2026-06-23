@@ -11,6 +11,8 @@ header{
 }
 main{
 display:flex;
+max-width: 800px;
+margin: 20 px;
 }
 article{
 background-color: black;
