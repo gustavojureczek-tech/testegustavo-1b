@@ -6,8 +6,8 @@ header{
     color: navy;
     text-align: center;
     max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
+    margin: 20 auto;
+    padding: 15px;
 }
 main{
 display:flex;
